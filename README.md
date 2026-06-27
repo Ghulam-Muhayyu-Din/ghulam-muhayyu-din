@@ -41,6 +41,11 @@ My research interests include AI-driven healthcare, autonomous vehicles, Digital
 
 A machine learning application for email spam and ham classification using TF-IDF, Random Forest, and Logistic Regression CV. The system also includes OCR-based image spam detection for hidden text in image attachments.
 
+- Live Demo: https://email-spam-detector-1003.streamlit.app
+- Repository: https://github.com/Ghulam-Muhayyu-Din/Email-Spam-Detector
+- Tech Stack: Python, Streamlit, Scikit-learn, Tesseract OCR, TF-IDF
+- Research-based implementation connected with published work.
+
 **Tech Stack:** Python, Streamlit, Scikit-learn, TF-IDF, Random Forest, Logistic Regression, OCR
 
 ---
