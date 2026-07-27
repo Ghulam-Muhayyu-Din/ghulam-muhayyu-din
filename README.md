@@ -79,13 +79,14 @@ Designing a QR code-driven secure architecture integrating smart home systems wi
 
 ### 📚 Selected Publications
 
-- Integrating Digital Twin and Nature-Based Solutions for Climate-Resilient Urban Design: A Predictive Framework for Future-Ready Residential Neighborhoods in the Anthropocene — [DOI: 10.59324/ejsmt.2025.1(5).01](https://doi.org/10.59324/ejsmt.2025.1(5).01)
 - Comparative Analysis on AI-Driven Human Digital Twin for Personalized and Predictive Medicine — [DOI: 10.59324/jcpmr.2025.1(1).06](https://doi.org/10.59324/jcpmr.2025.1(1).06)
+- Smart Manufacturing System Using LLM for Human-Robot Collaboration: Applications and Challenges — [DOI: 10.59324/ejtas.2025.3(1).21](https://doi.org/10.59324/ejtas.2025.3(1).21)
 - Machine Learning-Based Email Spam Detection: Accuracy, Overfitting and Robustness Analysis — [DOI: 10.59324/ejaset.2025.3(6).06](https://doi.org/10.59324/ejaset.2025.3(6).06)
 - Management in Healthcare Sector: Artificial Intelligence Methodology in Pharma 4.0 — [DOI: 10.59324/ejmeb.2025.2(2).20](https://doi.org/10.59324/ejmeb.2025.2(2).20)
 - Supply Chain System Based on Pharmaceutical Industry 4.0 Platform: State of the Art — [DOI: 10.59324/ejaset.2025.3(3).01](https://doi.org/10.59324/ejaset.2025.3(3).01)
+- Integrating Digital Twin and Nature-Based Solutions for Climate-Resilient Urban Design: A Predictive Framework for Future-Ready Residential Neighborhoods in the Anthropocene — [DOI: 10.59324/ejsmt.2025.1(5).01](https://doi.org/10.59324/ejsmt.2025.1(5).01)
 - Integrating Sustainable Design and Digital Technologies in Urban Residential Architecture: A Framework for Affordable and Eco-Friendly Housing — [DOI: 10.59324/ejaset.2025.3(4).14](https://doi.org/10.59324/ejaset.2025.3(4).14)
-- Smart Manufacturing System Using LLM for Human-Robot Collaboration: Applications and Challenges — [DOI: 10.59324/ejtas.2025.3(1).21](https://doi.org/10.59324/ejtas.2025.3(1).21)
+
 
 ---
 
