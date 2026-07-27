@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Ghulam%20Muhayyu%20Din&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ghulam-muhayyu-din/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science+Student+Researcher+%40+KFUEIT;Research+Assistant+%40+Beijing+Institute+of+Technology+China;Reviewer+%40+IEEE+Transactions+on+Neural+Systems+and+Rehabilitation+Engineering;Machine+Learning+%7C+Digital+Twin+%7C+Artificial+Intelligence+%7C+IoT+%7C+Autonomus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science+Student+Researcher+%40+KFUEIT;Research+Assistant+%40+Beijing+Institute+of+Technology+China;Reviewer+%40+IEEE+TNSRE-2026-00393;Machine+Learning+%7C+Digital+Twin+%7C+AI+%7C+IoT+%7C+Autonomus" alt="Typing SVG" />
 </a>
 
 </div>
