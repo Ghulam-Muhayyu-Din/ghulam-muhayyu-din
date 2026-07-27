@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Ghulam%20Muhayyu%20Din&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ghulam-muhayyu-din/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science+Researcher+%40+KFUEIT;Research+Assistant+%40+Beijing+Institute+of+Technology;Reviewer+%40+IEEE-TNSRE;Machine+Learning+%7C+Digital+Twin+%7C+IoT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science+Student+Researcher+%40+KFUEIT;Research+Assistant+%40+Beijing+Institute+of+Technology+China;Reviewer+%40+IEEE+Transactions+on+Neural+Systems+&+Rehabilitation+Engineering;Machine+Learning+%7C+Digital+Twin+%7C+Artificial+Intelligence+%7C+IoT+%7C+Autonomus" alt="Typing SVG" />
 </a>
 
 </div>
 
 ### 👋 About Me
 
-I'm a Computer Science undergraduate at **Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Pakistan**, building research and applied systems at the intersection of **Machine Learning**, **Digital Twin technologies**, **IoT**, and **intelligent cyber-physical systems**.
+I'm a Computer Science Student at **Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Pakistan**, building research and applied systems at the intersection of **Machine Learning**, **Digital Twin technologies**, **IoT**, and **intelligent cyber-physical systems**.
 
 I work remotely as a **Research Assistant** with a postdoctoral research group at the **School of Mechanical and Vehicle Engineering, Beijing Institute of Technology (BIT), China**, under the supervision of **Dr. Muhammad Usman Shoukat**, contributing to experimental design, literature synthesis, ML modelling, and technical manuscript development.
 
@@ -34,17 +34,15 @@ I also serve as a **Reviewer for IEEE Transactions on Neural Systems and Rehabil
 ![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0A66C2?style=for-the-badge&logo=mathworks&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-0A66C2?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-0A66C2?style=for-the-badge&logo=huggingface&logoColor=white)
 
 **Tools & Platforms**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-0A66C2?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-0A66C2?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-0A66C2?style=for-the-badge&logo=googlecolab&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-0A66C2?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-0A66C2?style=for-the-badge&logo=latex&logoColor=white)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-0A66C2?style=for-the-badge&logo=googlelens&logoColor=white)
+![ABAQUS](https://img.shields.io/badge/ABAQUS-0A66C2?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Origin](https://img.shields.io/badge/Origin-0A66C2?style=for-the-badge&logo=originlab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-0A66C2?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-0A66C2?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -57,29 +55,37 @@ A machine learning application for email spam/ham classification using TF-IDF, R
 🔗 [Live Demo](https://email-spam-detector-1003.streamlit.app) · 📦 [Repository](https://github.com/Ghulam-Muhayyu-Din/Email-Spam-Detector)
 `Python` `Streamlit` `Scikit-learn` `TF-IDF` `Random Forest` `OCR`
 
-**AI-Driven Digital Twin Framework for Cultural Symbols**
-A TensorFlow-supported AI labeling and detection workflow for cultural symbol extraction, classification, and transformation into a Digital Twin Symbol Library for preservation and generative reuse.
+**AI-Driven Digital Twin Framework for the Extraction and Generative Transformation of Regional Cultural Symbols**
+Built a TensorFlow-supported AI labeling and detection workflow for 25 cultural symbol classes, achieving 43.7% mAP@50 and 66.7% precision, organizing extracted motifs into a Digital Twin Symbol Library for preservation and generative reuse.
 `Python` `TensorFlow` `Digital Twin` `Computer Vision`
 
-**Digital Twins for Intelligent Connected Vehicles**
-A reference architecture for vehicle Digital Twins integrating edge real-time control and cloud predictive analytics for intelligent connected autonomous and conventional vehicles.
+**Digital Twins for Intelligent Connected Autonomous Vehicles and Intelligent Connected Conventional Vehicles**
+Developed a reference architecture for vehicle Digital Twins, integrating edge real-time control with cloud predictive analytics for ICAVs and ICCVs. Proposed hybrid physics-informed and data-driven modeling strategies for safety-grade simulation, predictive maintenance, and SOTIF-compliant validation.
 `Digital Twin` `Autonomous Vehicles` `Edge-Cloud Systems` `Predictive Analytics`
 
-**Advanced Optical Sensing for Battery Safety**
-A sensor-fusion and machine-learning-driven battery health estimation model using FBG-based temperature and strain monitoring for lithium-ion battery safety.
+**Advanced Optical Sensing for Battery Safety: FBG-Based Temperature and Strain Monitoring**
+Designed and implemented a sensor-fusion and ML-driven battery health estimation model for lithium-ion cells; deployed edge processing and a cloud dashboard to enable predictive maintenance and lifecycle analysis.
 `FBG Sensors` `Battery Safety` `Predictive Maintenance` `Edge Processing`
+
+**AI-Driven Public Administration Could Reinforce Transparency and Accountability in Papua New Guinea**
+Designed and calibrated the AI-Governance Transparency-Accountability Model (AIG-TAM), ran comparative case analyses (Estonia, Rwanda, Kenya), and produced policy-oriented simulations and a roadmap for ethics-first AI deployment in public administration.
+`AI Governance` `Public Administration` `Policy Simulation`
+
+**Smart Home Integration with UAV-Based Delivery: A QR Code-Driven Secure Architecture** *(Ongoing)*
+Designing a QR code-driven secure architecture integrating smart home systems with UAV-based delivery.
+`IoT` `UAV` `Smart Home` `Security`
 
 ---
 
 ### 📚 Selected Publications
 
-- Integrating Digital Twin and Nature-Based Solutions for Climate-Resilient Urban Design: A Predictive Framework for Future-Ready Residential Neighborhoods in the Anthropocene
-- Comparative Analysis on AI-Driven Human Digital Twin for Personalized and Predictive Medicine
-- Machine Learning-Based Email Spam Detection: Accuracy, Overfitting and Robustness Analysis
-- Management in Healthcare Sector: Artificial Intelligence Methodology in Pharma 4.0
-- Supply Chain System Based on Pharmaceutical Industry 4.0 Platform: State of the Art
-- Integrating Sustainable Design and Digital Technologies in Urban Residential Architecture: A Framework for Affordable and Eco-Friendly Housing
-- Smart Manufacturing System Using LLM for Human-Robot Collaboration: Applications and Challenges
+- Integrating Digital Twin and Nature-Based Solutions for Climate-Resilient Urban Design: A Predictive Framework for Future-Ready Residential Neighborhoods in the Anthropocene — [DOI: 10.59324/ejsmt.2025.1(5).01](https://doi.org/10.59324/ejsmt.2025.1(5).01)
+- Comparative Analysis on AI-Driven Human Digital Twin for Personalized and Predictive Medicine — [DOI: 10.59324/jcpmr.2025.1(1).06](https://doi.org/10.59324/jcpmr.2025.1(1).06)
+- Machine Learning-Based Email Spam Detection: Accuracy, Overfitting and Robustness Analysis — [DOI: 10.59324/ejaset.2025.3(6).06](https://doi.org/10.59324/ejaset.2025.3(6).06)
+- Management in Healthcare Sector: Artificial Intelligence Methodology in Pharma 4.0 — [DOI: 10.59324/ejmeb.2025.2(2).20](https://doi.org/10.59324/ejmeb.2025.2(2).20)
+- Supply Chain System Based on Pharmaceutical Industry 4.0 Platform: State of the Art — [DOI: 10.59324/ejaset.2025.3(3).01](https://doi.org/10.59324/ejaset.2025.3(3).01)
+- Integrating Sustainable Design and Digital Technologies in Urban Residential Architecture: A Framework for Affordable and Eco-Friendly Housing — [DOI: 10.59324/ejaset.2025.3(4).14](https://doi.org/10.59324/ejaset.2025.3(4).14)
+- Smart Manufacturing System Using LLM for Human-Robot Collaboration: Applications and Challenges — [DOI: 10.59324/ejtas.2025.3(1).21](https://doi.org/10.59324/ejtas.2025.3(1).21)
 
 ---
 
