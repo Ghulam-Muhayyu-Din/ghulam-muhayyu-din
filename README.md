@@ -10,39 +10,53 @@
 
 ### 👋 About Me
 
-I'm a Computer Science Student at **Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Pakistan**, building research and applied systems at the intersection of **Machine Learning**, **Digital Twin technologies**, **IoT**, and **intelligent cyber-physical systems**.
+I'm an **Computer Science Student Researcher** at **Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Pakistan**, and a **Remote Research Assistant** with the **School of Mechanical and Vehicle Engineering, Beijing Institute of Technology (BIT), China**.
 
-I work remotely as a **Research Assistant** with a postdoctoral research group at the **School of Mechanical and Vehicle Engineering, Beijing Institute of Technology (BIT), China**, under the supervision of **Dr. Muhammad Usman Shoukat**, contributing to experimental design, literature synthesis, ML modelling, and technical manuscript development.
+My research focuses on **Artificial Intelligence**, **Machine Learning**, **Digital Twins**, **Intelligent Transportation Systems**, and **Intelligent Cyber Physical Systems**, with applications spanning intelligent connected vehicles, smart manufacturing, personalized healthcare, and Industry 4.0.
 
-I also serve as a **Reviewer for IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**, with peer-review contributions verified through Clarivate's Web of Science Reviewer Recognition Service.
+I contribute to interdisciplinary research through experimental design, machine learning modeling, literature synthesis, technical writing, and scientific manuscript development. I also serve as a **Reviewer for IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**.
 
-- 🔭 Currently working on **AI-driven Digital Twin frameworks**, **Digital Twins for Intelligent Connected Autonomous Vehicles**, **ML-based spam detection**, **FBG-based battery safety monitoring**, and **Human Digital Twins for personalized medicine**
-- 🌱 Research interests: AI-driven healthcare, autonomous vehicles, Digital Twin architectures, intelligent transportation, smart manufacturing, and cyber-physical systems
-- 👥 President of **Research, Innovation & Technology Society (RITS)** and **Clean & Green Society (CGS)** at KFUEIT
-- 📝 Co-author of **7+ peer-reviewed publications** in under two years, including a comparative pipeline evaluating 19 classification algorithms
-- 🤝 Open to **research internships, academic collaborations, and applied research opportunities**
-- 💬 Ask me about Machine Learning, Digital Twins, IoT, and intelligent cyber-physical systems
+• 🔬 Current research: AI Driven Digital Twins, Intelligent Connected Vehicles, UAV Remote Sensing, Human Digital Twins, and FBG Based Battery Health Monitoring
+
+• 📄 Co author of **7+ peer reviewed publications** across Artificial Intelligence, Digital Twins, Healthcare, Industry 4.0, and Intelligent Systems
+
+• 🏆 Recipient of the **IEEE Computer Society WEIGD Student Support Fund**
+
+• 👥 President of the **Research, Innovation & Technology Society (RITS)** and **Clean and Green Society (CGS)**
+
+• 🤝 Open to **international research internships, academic collaborations, and funded research opportunities**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Research Toolkit
 
 <div align="center">
 
-**Languages & Frameworks**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0A66C2?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0A66C2?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0A66C2?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0A66C2?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Tools & Platforms**
+**Data Science**
 
-![MS Office](https://img.shields.io/badge/MS_Office-0A66C2?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0A66C2?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0A66C2?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0A66C2?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Research & Development**
+
 ![LaTeX](https://img.shields.io/badge/LaTeX-0A66C2?style=for-the-badge&logo=latex&logoColor=white)
-![ABAQUS](https://img.shields.io/badge/ABAQUS-0A66C2?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![Origin](https://img.shields.io/badge/Origin-0A66C2?style=for-the-badge&logo=originlab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-0A66C2?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-0A66C2?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-0A66C2?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0A66C2?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -50,56 +64,113 @@ I also serve as a **Reviewer for IEEE Transactions on Neural Systems and Rehabil
 
 ### 🚀 Featured Projects
 
-**[ML-Based Email Spam Detector](https://github.com/Ghulam-Muhayyu-Din/Email-Spam-Detector)**
-A machine learning application for email spam/ham classification using TF-IDF, Random Forest, and Logistic Regression CV, with OCR-based image spam detection for hidden text in attachments.
-🔗 [Live Demo](https://email-spam-detector-1003.streamlit.app) · 📦 [Repository](https://github.com/Ghulam-Muhayyu-Din/Email-Spam-Detector)
-`Python` `Streamlit` `Scikit-learn` `TF-IDF` `Random Forest` `OCR`
+**🤖 AI Driven Digital Twin Framework for the Extraction and Generative Transformation of Regional Cultural Symbols**
+Designed a Digital Twin framework integrating Computer Vision and TensorFlow for automatic extraction, classification, and generative transformation of regional cultural symbols. Developed an AI assisted workflow for heritage preservation using deep learning based object detection.
+`Python` `TensorFlow` `Computer Vision` `Digital Twin`
 
-**AI-Driven Digital Twin Framework for the Extraction and Generative Transformation of Regional Cultural Symbols**
-Built a TensorFlow-supported AI labeling and detection workflow for 25 cultural symbol classes, achieving 43.7% mAP@50 and 66.7% precision, organizing extracted motifs into a Digital Twin Symbol Library for preservation and generative reuse.
-`Python` `TensorFlow` `Digital Twin` `Computer Vision`
+---
 
-**Digital Twins for Intelligent Connected Autonomous Vehicles and Intelligent Connected Conventional Vehicles**
-Developed a reference architecture for vehicle Digital Twins, integrating edge real-time control with cloud predictive analytics for ICAVs and ICCVs. Proposed hybrid physics-informed and data-driven modeling strategies for safety-grade simulation, predictive maintenance, and SOTIF-compliant validation.
-`Digital Twin` `Autonomous Vehicles` `Edge-Cloud Systems` `Predictive Analytics`
+**🚗 Digital Twins for Intelligent Connected Autonomous Vehicles and Intelligent Connected Conventional Vehicles**
+Designed a reference Digital Twin architecture integrating edge intelligence, cloud analytics, predictive maintenance, and safety aware simulation for Intelligent Connected Autonomous and Conventional Vehicles.
+`Digital Twin` `Autonomous Vehicles` `Edge AI` `Predictive Analytics`
 
-**Advanced Optical Sensing for Battery Safety: FBG-Based Temperature and Strain Monitoring**
-Designed and implemented a sensor-fusion and ML-driven battery health estimation model for lithium-ion cells; deployed edge processing and a cloud dashboard to enable predictive maintenance and lifecycle analysis.
-`FBG Sensors` `Battery Safety` `Predictive Maintenance` `Edge Processing`
+---
 
-**AI-Driven Public Administration Could Reinforce Transparency and Accountability in Papua New Guinea**
-Designed and calibrated the AI-Governance Transparency-Accountability Model (AIG-TAM), ran comparative case analyses (Estonia, Rwanda, Kenya), and produced policy-oriented simulations and a roadmap for ethics-first AI deployment in public administration.
-`AI Governance` `Public Administration` `Policy Simulation`
+**🔋 Advanced Optical Sensing for Battery Safety: FBG Based Temperature and Strain Monitoring**
+Designed an intelligent battery monitoring framework combining Fiber Bragg Grating sensors, Machine Learning, and cloud based analytics for predictive maintenance and battery safety assessment.
+`FBG Sensors` `Machine Learning` `Battery Safety` `Predictive Maintenance`
 
-**Smart Home Integration with UAV-Based Delivery: A QR Code-Driven Secure Architecture** *(Ongoing)*
-Designing a QR code-driven secure architecture integrating smart home systems with UAV-based delivery.
+---
+
+**📧 ML Based Email Spam Detector**
+Developed a complete email spam detection system using TF IDF, OCR based image analysis, and comparative evaluation of multiple Machine Learning algorithms.
+🔗 Live Demo: https://email-spam-detector-1003.streamlit.app
+
+📦 Repository: https://github.com/Ghulam-Muhayyu-Din/Email-Spam-Detector
+
+`Python` `Scikit Learn` `Random Forest` `OCR`
+
+---
+
+**🏛 AI Driven Public Administration for Transparency and Accountability**
+Developed the AI Governance Transparency Accountability Model (AIG TAM) and evaluated AI enabled governance strategies through comparative international case studies.
+`AI Governance` `Policy Analytics` `Simulation`
+
+---
+
+**🚁 Smart Home Integration with UAV Based Delivery** *(Ongoing)*
+
+Designing an intelligent UAV enabled smart home delivery architecture integrating QR based authentication, IoT devices, and secure autonomous delivery.
 `IoT` `UAV` `Smart Home` `Security`
 
 ---
 
 ### 📚 Selected Publications
 
-- Comparative Analysis on AI-Driven Human Digital Twin for Personalized and Predictive Medicine — [DOI: 10.59324/jcpmr.2025.1(1).06](https://doi.org/10.59324/jcpmr.2025.1(1).06)
-- Smart Manufacturing System Using LLM for Human-Robot Collaboration: Applications and Challenges — [DOI: 10.59324/ejtas.2025.3(1).21](https://doi.org/10.59324/ejtas.2025.3(1).21)
-- Machine Learning-Based Email Spam Detection: Accuracy, Overfitting and Robustness Analysis — [DOI: 10.59324/ejaset.2025.3(6).06](https://doi.org/10.59324/ejaset.2025.3(6).06)
-- Management in Healthcare Sector: Artificial Intelligence Methodology in Pharma 4.0 — [DOI: 10.59324/ejmeb.2025.2(2).20](https://doi.org/10.59324/ejmeb.2025.2(2).20)
-- Supply Chain System Based on Pharmaceutical Industry 4.0 Platform: State of the Art — [DOI: 10.59324/ejaset.2025.3(3).01](https://doi.org/10.59324/ejaset.2025.3(3).01)
-- Integrating Digital Twin and Nature-Based Solutions for Climate-Resilient Urban Design: A Predictive Framework for Future-Ready Residential Neighborhoods in the Anthropocene — [DOI: 10.59324/ejsmt.2025.1(5).01](https://doi.org/10.59324/ejsmt.2025.1(5).01)
-- Integrating Sustainable Design and Digital Technologies in Urban Residential Architecture: A Framework for Affordable and Eco-Friendly Housing — [DOI: 10.59324/ejaset.2025.3(4).14](https://doi.org/10.59324/ejaset.2025.3(4).14)
+⭐ **Comparative Analysis on AI Driven Human Digital Twin for Personalized and Predictive Medicine**
+DOI: https://doi.org/10.59324/jcpmr.2025.1(1).06
 
+⭐ **Smart Manufacturing System Using LLM for Human Robot Collaboration: Applications and Challenges**
+DOI: https://doi.org/10.59324/ejtas.2025.3(1).21
+
+⭐ **Machine Learning Based Email Spam Detection: Accuracy, Overfitting and Robustness Analysis**
+DOI: https://doi.org/10.59324/ejaset.2025.3(6).06
+
+**Management in Healthcare Sector: Artificial Intelligence Methodology in Pharma 4.0**
+DOI: https://doi.org/10.59324/ejmeb.2025.2(2).20
+
+**Supply Chain System Based on Pharmaceutical Industry 4.0 Platform: State of the Art**
+DOI: https://doi.org/10.59324/ejaset.2025.3(3).01
+
+**Integrating Digital Twin and Nature Based Solutions for Climate Resilient Urban Design**
+DOI: https://doi.org/10.59324/ejsmt.2025.1(5).01
+
+**Integrating Sustainable Design and Digital Technologies in Urban Residential Architecture**
+DOI: https://doi.org/10.59324/ejaset.2025.3(4).14
 
 ---
 
 ### 🏆 Leadership & Community
 
-- Recipient of the IEEE Computer Society WEIGD Student Support Fund!
-- IEEE Student Member
-- President, Research, Innovation & Technology Society (RITS) — KFUEIT
-- President, Clean and Green Society — KFUEIT
-- Reviewer, IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)
-- Research Assistant (Remote), Beijing Institute of Technology, Zhuhai
-- Summer Research Intern, Alkhidmat Foundation Pakistan
-- Research Volunteer, Code for Pakistan
+#### 🏛 Academic Leadership
+
+• President, Research, Innovation & Technology Society (RITS), KFUEIT
+
+• President, Clean and Green Society (CGS), KFUEIT
+
+---
+
+#### 🌍 Professional Memberships
+
+• IEEE Student Member
+
+• IEEE Computer Society Student Member
+
+---
+
+#### 📝 Professional Service
+
+• Reviewer, IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)
+
+---
+
+#### 🔬 Research Experience
+
+• Remote Research Assistant, Beijing Institute of Technology, China
+
+• Summer Research Intern, Alkhidmat Foundation Pakistan
+
+---
+
+#### 🏅 Recognition
+
+• Recipient, IEEE Computer Society WEIGD Student Support Fund
+
+---
+
+#### 🤝 Community Contribution
+
+• Research Volunteer, Code for Pakistan
 
 ---
 
